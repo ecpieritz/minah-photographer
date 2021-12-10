@@ -2,9 +2,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://github.com/ecpieritz/x" width = "702" height = "auto">
-  <img src = "https://github.com/ecpieritz/x" width = "351" height = "auto">
-  <img src = "https://github.com/ecpieritz/x" width = "351" height = "auto">
+  <img src = "https://github.com/ecpieritz/minah-photographer/blob/main/img/print-01.jpg?raw=true" width = "702" height = "auto">
+  <img src = "https://github.com/ecpieritz/minah-photographer/blob/main/img/print-02.jpg?raw=true" width = "351" height = "auto">
+  <img src = "https://github.com/ecpieritz/minah-photographer/blob/main/img/print-03.jpg?raw=true" width = "351" height = "auto">
 </p>
 
 ## 📖 About
